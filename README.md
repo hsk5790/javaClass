@@ -1,1 +1,1 @@
-# javaClass
+#  MVC패턴을 적용한 java 연락처 어플리케이션입니다. 
